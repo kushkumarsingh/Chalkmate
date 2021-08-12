@@ -1,0 +1,47 @@
+.signin-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.signin-container-left{
+    width: 50%;
+}
+.signin-heading{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+.signin-heading :nth-child(1){
+    font-size: 50px;
+    margin-bottom: 10px
+}
+.signin-heading :nth-child(2){
+    font-size: 18px ;
+    margin-bottom: 30px;
+}
+.sigin-input{
+    display: flex;
+    flex-direction: column;
+}
+.signin-field{
+    padding: 20px 25px;
+    border: 1px solid #CBCBCB;
+    border-radius: 60px;
+    font-size: 16px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    margin-bottom: 30px;
+}
+.signin-btn{
+    font-size: 16px;
+}
+.signin-container-right > img{
+    height: 100vh;
+    width: auto;
+}
+.signin-container-right > div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
