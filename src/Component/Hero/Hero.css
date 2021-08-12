@@ -703,9 +703,9 @@ button:focus{
         display: block !important;
     }
     .heading {
-        width: 90vw;
+        width: 80vw;
         font-size: 50px;
-        font-weight: 600;
+        font-weight: 500;
     }
     .setup-heading {
         width: 80vw;
@@ -760,6 +760,9 @@ button:focus{
 @media only screen and (max-width: 650px) {
     .social-links{
         display: none;
+    }
+    .heading {
+        width: 90vw;
     }
     .intro {
         padding-bottom: 0px;
