@@ -1,6 +1,4 @@
 import React from 'react';
-import Slider from 'react-slick';
-import { FaArrowRight, FaArrowLeft } from 'react-icons'
 import './Hero.css';
 
 function Hero(){
