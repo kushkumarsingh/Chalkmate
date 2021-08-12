@@ -718,7 +718,7 @@ button:focus{
     }
     .section-img > img {
         height: auto;
-        width: 80vw;
+        width: 60vw;
     }
     .email {
         width: 250px;
@@ -763,5 +763,9 @@ button:focus{
     }
     .intro {
         padding-bottom: 0px;
+    }
+    .section-img > img {
+        height: auto;
+        width: 80vw;
     }
 }
