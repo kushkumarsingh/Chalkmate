@@ -75,11 +75,11 @@ function Hero(){
         <div className='section-area'>
             <section className="section">    
                     <div className="section-img">
-                        <img src="Assets/create-portfolio.svg" alt="" />
+                        <img src="Assets/portfolio.svg" alt="" />
                     </div>
 
                     <div className='section-text'>
-                        <div className='section-heading'>
+                        <div className='section-heading' style={{color: '#00D498'}}>
                             Create Your <br></br>Career Portfolio
                         </div>
                         <div className='section-sub-heading'>
@@ -95,7 +95,7 @@ function Hero(){
                     </div>
 
                     <div className='section-text'>
-                        <div className='section-heading'>
+                        <div className='section-heading' style={{color: '#4951EC'}}>
                             Monetize Your <br></br>Content
                         </div>
                         <div className='section-sub-heading'>
@@ -111,7 +111,7 @@ function Hero(){
                     </div>
 
                     <div className='section-text'>
-                        <div className='section-heading'>
+                        <div className='section-heading' style={{color: '#FA7167'}}>
                             Social  <br></br>Engagement
                         </div>
                         <div className='section-sub-heading'>
@@ -121,7 +121,7 @@ function Hero(){
                     </div>
             </section>
             <div className='map-section'>
-                <div className='section-heading'>Our Global Presence</div>
+                <div className='section-heading' style={{color: '#4951EC'}}>Our Global Presence</div>
                 <img className='map' src="Assets/map.png" alt="" />
             </div>
         </div>
@@ -130,7 +130,7 @@ function Hero(){
         <div className='section-area '>
             <section className="section reverse">    
                     <div className='section-text'>
-                        <div className='section-heading'>
+                        <div className='section-heading' style={{color: '#FA4067'}}>
                             Digital Content <br></br>Management
                         </div>
                         <div className='section-sub-heading'>
@@ -145,7 +145,7 @@ function Hero(){
             </section>
             <section className="section reverse">    
                     <div className='section-text'>
-                        <div className='section-heading'>
+                        <div className='section-heading' style={{color: '#00DFBF'}}>
                             Personalized and <br></br>Filtered Content
                         </div>
                         <div className='section-sub-heading'>
